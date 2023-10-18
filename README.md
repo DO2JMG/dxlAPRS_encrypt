@@ -1,6 +1,6 @@
 # dxlAPRS_encrypt
 
-dxlAPRS_encrypt send a report zo wettersonde.net
+dxlAPRS_encrypt send a report to wettersonde.net
 
 ## Install the required dependencies :
 
