@@ -12,3 +12,19 @@ dxlAPRS_encrypt send a report zo wettersonde.net
   cmake ..
   make
 ```
+
+### Add a cronjob :
+
+Replace <ENCRYPT-FILENAME> and <YOUR-CALLSIGN> with your data, in the example they are just placeholders
+
+```
+  */1 * * * *  /home/pi/scanner -f <ENCRYPT-FILENAME> -c <YOUR-CALLSIGN>
+```
+
+### Changing parameters for sondemod :
+
+Replace <ENCRYPT-FILENAME> with your data, in the example they are just placeholders
+
+```
+-X <ENCRYPT-FILENAME>
+```
