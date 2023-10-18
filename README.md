@@ -2,6 +2,12 @@
 
 dxlAPRS_encrypt send a report zo wettersonde.net
 
+## Install the required dependencies :
+
+```
+sudo apt-get install libcurl4-openssl-dev
+```
+
 ### Unpack and compile :
 
 ```
