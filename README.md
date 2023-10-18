@@ -18,7 +18,7 @@ dxlAPRS_encrypt send a report zo wettersonde.net
 Replace <ENCRYPT-FILENAME> and <YOUR-CALLSIGN> with your data, in the example they are just placeholders
 
 ```
-  */1 * * * *  /home/pi/scanner -f <ENCRYPT-FILENAME> -c <YOUR-CALLSIGN>
+  */1 * * * *  /home/pi/encrypt -f <ENCRYPT-FILENAME> -c <YOUR-CALLSIGN>
 ```
 
 ### Changing parameters for sondemod :
