@@ -1,4 +1,4 @@
-// dxlAPRS_scanner - dxlAPRS extension for RS41-SGM report
+// dxlAPRS_encrypt - dxlAPRS extension for RS41-SGM report
 
 // Copyright (C) Jean-Michael Grobel (DO2JMG) <do2jmg@wettersonde.net>
 
